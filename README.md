@@ -1,2 +1,2 @@
 # Keep-it-simple-
-Some simple quantum facts, Implemented in qiskit 
+Some Quantum computing concepts and facts, simplified and Implemented in qiskit 
